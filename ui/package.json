@@ -34,7 +34,7 @@
     "ng-circle-progress": "^1.5.1",
     "ngx-cookie": "^4.1.2",
     "ngx-echarts": "^4.0.1",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.13.4",
     "rxjs": "~6.5.3",
     "tslib": "^1.10.0",
